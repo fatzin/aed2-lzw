@@ -2,7 +2,7 @@
 #include <fstream>
 #include <sstream>
 #include "lzw.h"
-#include "decompress.h"
+#include "decompressLZW.h"
 
 void comprimirArquivo(const std::string &nomeArquivoEntrada, const std::string &nomeArquivoSaida)
 {
