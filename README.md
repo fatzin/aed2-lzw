@@ -3,7 +3,7 @@
 ## Compilando o projeto
 
 ```terminal
-g++ main.cpp lzw.cpp binarytree.cpp decompressLZW.cpp -O2 -o1 lzw
+g++ main.cpp lzw.cpp binarytree.cpp decompressLZW.cpp -O2 -o lzw
 ```
 
 ## Como testar o projeto
